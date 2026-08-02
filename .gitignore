@@ -1,0 +1,28 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Build files
+dist/
+build/
+target/
+
+# Dependencies
+node_modules/
+
+# Package manager
+package-lock.json
+
+# Maven Wrapper Logs
+.mvn/wrapper/maven-wrapper.jar
